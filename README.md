@@ -1,3 +1,5 @@
+# Warning- this library has been found buggy
+
 # BZ2-decompressor-in-pure-Pascal
 BZ2 decompressor in pure Pascal
 
